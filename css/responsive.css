@@ -1,0 +1,46 @@
+@media (min-width: 200px) and (max-width: 979px) {
+#mainMenu{
+	background:#00549C ;
+	margin:0 -15px;
+}
+.navbar{
+	min-height:auto
+}
+.navbar-toggle {
+    background-color: #DADADA;
+	margin-top:12px;
+}
+.navbar-toggle .icon-bar {
+    background: #787878;
+}
+.navbar-nav{
+	width:100%;
+	margin:0;
+	float:left
+}
+.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > .active > a{
+	line-height:18px;
+	color:#eee;
+	border-bottom: 1px solid rgba(35, 35, 35, 0.21);
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover {
+	color:#ddd
+}
+.demoGraphicBot, .soft-productIco, .softDemoWrap.demoGraphicTop, .pro-img{
+	background:none
+}
+
+#article-details {
+	padding: 30px 0;
+	background: #00549C
+}
+.feature-area{
+	padding:30px 0
+}
+.single-feature{
+	margin-bottom:10px
+}
+.page-footer{
+	padding:0
+}
+}

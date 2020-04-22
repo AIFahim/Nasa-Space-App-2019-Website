@@ -1,0 +1,90 @@
+.wrap-content {
+	padding: 0px;
+	margin-bottom: 100px;
+}
+.required:after{
+	content:"*";
+	color:#D00;
+}
+fieldset {
+	border: 1px solid #1C5FA1;
+	padding-bottom: 15px;
+	margin: 0px 15px 10px;
+	border-radius: 3px;
+}
+legend {
+	width: auto;
+	margin: 0px 15px;
+	padding: 0px 5px 5px;
+	border: medium none;
+	color: #062645;
+	font-size: 18px;
+}
+label {
+	color: #173654;
+	font-size: 12px;
+	margin-bottom: 1px;
+}
+.form-control {
+	height: 28px;
+	border-radius: 0px;
+	padding: 3px 6px;
+	margin-bottom: 5px;
+	font-size: 12px;
+	box-shadow: none;
+}
+.input-group-sm > .form-control, .input-group-sm > .input-group-addon, .input-group-sm > .input-group-btn > .btn {
+	border-radius: 0
+}
+.input-group .form-control {
+	background: #fff;
+	border-radius: 0;
+}
+input[type="radio"] {
+	margin: 4px 0px 0px;
+	line-height: normal;
+	display: inline-block;
+}
+.btn {
+	border-radius: 0;
+	padding: 6px 30px;
+}
+.divider {
+	background: #eee;
+	height: 1px;
+	width: 100%;
+	margin: 20px 0
+}
+.uploadImg {
+	position: absolute;
+	z-index: 2;
+	top: 0;
+	left: 0;
+	filter: alpha(opacity=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	opacity: 0;
+	background-color: transparent;
+	color: transparent;
+}
+.uploadFile .btn {
+	border-radius: 0px;
+	padding: 3px 8px;
+}
+.uploadFile {
+	position: relative;
+	display: inline-block;
+	border: 1px solid rgb(221, 221, 221);
+	padding: 5px;
+}
+#upload-file-info {
+	color: #555;
+	display: none
+}
+.UploadPhoto {
+	display: inline-block
+}
+.UploadPhoto img {
+	width: 60px;
+	border: 1px solid #ddd;
+	padding: 2px;
+}
