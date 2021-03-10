@@ -1,4 +1,7 @@
-# Nasa Space App Challenge 2019 Project Repo ( Website ) 
+# Nasa Space App Challenge 2019 Project Repo ( Website )
+![Author](https://img.shields.io/badge/author-AIFahim-orange)
+[![License Badge](https://img.shields.io/badge/license-GPL%203.0-blue)](https://github.com/AIFahim/Nasa-Space-App-2019-Website/blob/master/LICENSE)
+
 <hr>
 
 ## Project Name : SPACE AIR QUALITY MONITORING. 
