@@ -4,7 +4,7 @@
 ## Project Name : SPACE AIR QUALITY MONITORING. 
 ## Project Description : Through This is the website, We shown the details of the air quality of the surface from  IOT Device Data. And analysis those data with NASA Data. <br><br> See the Details Description From Nasa : [Link](https://2019.spaceappschallenge.org/challenges/living-our-world/surface-air-quality-mission/teams/decoders-squad/project)  
 
-## Team Member ( See From [Nasa]([Link](https://2019.spaceappschallenge.org/challenges/living-our-world/surface-air-quality-mission/teams/decoders-squad/members)): 
+## Team Member ( See From [Nasa](https://2019.spaceappschallenge.org/challenges/living-our-world/surface-air-quality-mission/teams/decoders-squad/members)): 
   - Md. Asif Iqbal Fahim
   - Khan Mohammad Shayshab Azad (Team Lead)
   - Mahmud Hossain
